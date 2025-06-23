@@ -1,190 +1,229 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello, I'm Parth Sharma!
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%26+Software+Engineer;From+Concept+to+Creation+%F0%9F%9A%80;Let's+Make+It+Happen!+%E2%9C%A8)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=80&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Realm&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+  <div style="flex: 1;">
+    <img src="https://parthsharma-portfolio.vercel.app/images/links.jpg" alt="Parth Sharma" width="250" style="border-radius: 50%; border: 4px solid #6366F1;">
+  </div>
+  <div style="flex: 2; text-align: left;">
+    <h3>🚀 FROM CONCEPT TO CREATION - LET'S MAKE IT HAPPEN!</h3>
+    <p style="font-family: 'Outfit', sans-serif; font-size: 18px; color: #64748b;">
+      <em>I thrive on crafting dynamic web applications and delivering seamless user experiences.</em>
+    </p>
+  </div>
 </div>
 
-## 🌟 About Me
+---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const parthSharma = {
-    role: "Full-Stack Developer",
-    location: "Building the future, one line at a time 🌍",
-    passion: ["Web Development", "AI/ML", "Open Source"],
-    currentFocus: "Creating dynamic web experiences",
-    philosophy: "Wake up each day eager to make a difference! 💫",
-    availability: "Open for full-time roles & freelance projects",
-    
-    getTechStack() {
-        return {
-            frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-            backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-            tools: ["Git", "Docker", "AWS", "Vercel"],
-            exploring: ["AI Integration", "Web3", "Cloud Architecture"]
-        };
-    },
-    
-    getMotivation() {
-        return "Thrive on solving complex problems with clean, efficient code!";
-    }
-};
-```
+## 🛠️ **The Secret Sauce** - My Tech Stack
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React"/>
+        <br><strong>ReactJS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="60" height="60" alt="Next.js"/>
+        <br><strong>NextJS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/typescript" width="60" height="60" alt="TypeScript"/>
+        <br><strong>TypeScript</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/tailwindcss" width="60" height="60" alt="Tailwind CSS"/>
+        <br><strong>Tailwind CSS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/framer" width="60" height="60" alt="Motion"/>
+        <br><strong>Motion</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/sanity" width="60" height="60" alt="Sanity"/>
+        <br><strong>Sanity</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/contentful" width="60" height="60" alt="Contentful"/>
+        <br><strong>Contentful</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/nodedotjs/darkgreen" width="60" height="60" alt="Node.js"/>
+        <br><strong>NodeJS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/express/white" width="60" height="60" alt="Express.js"/>
+        <br><strong>ExpressJS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/postgresql/sky" width="60" height="60" alt="PostgreSQL"/>
+        <br><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/mongodb/darkgreen" width="60" height="60" alt="MongoDB"/>
+        <br><strong>MongoDB</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/prisma/blue" width="60" height="60" alt="Prisma"/>
+        <br><strong>Prisma</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/redux/pink" width="60" height="60" alt="Zustand"/>
+        <br><strong>Zustand</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/zod" width="60" height="60" alt="Zod"/>
+        <br><strong>Zod</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/pnpm" width="60" height="60" alt="pnpm"/>
+        <br><strong>pnpm</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/bun/white" width="60" height="60" alt="Bun"/>
+        <br><strong>Bun</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/git" width="60" height="60" alt="Git"/>
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/github/white" width="60" height="60" alt="GitHub"/>
+        <br><strong>GitHub</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/vercel/white" width="60" height="60" alt="Vercel"/>
+        <br><strong>Vercel</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/amazonwebservices/gray" width="60" height="60" alt="AWS"/>
+        <br><strong>AWS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/docker" width="60" height="60" alt="Docker"/>
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/expo/gray" width="60" height="60" alt="Expo"/>
+        <br><strong>Expo</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/clerk" width="60" height="60" alt="Clerk"/>
+        <br><strong>Clerk</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/linux" width="60" height="60" alt="Linux"/>
+        <br><strong>Linux</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🛠️ Tech Arsenal
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,html,css,tailwind,mongodb,postgresql,express,git,docker,aws,vercel,figma&theme=dark" />
+## 📊 **GitHub Analytics**
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksparth12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&icon_color=6366F1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksparth12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksparth12&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=64748B" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 **What I'm Currently Working On**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+scalable+web+applications;Learning+new+technologies;Contributing+to+open+source;Crafting+seamless+user+experiences" alt="Current Work" />
+</div>
+
+---
+
+## 🌟 **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksparth12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E2E8F0&area=true&area_color=6366F1" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksparth12&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 **Featured Projects**
+
+<div align="center">
+  <a href="https://github.com/ksparth12/thinkforge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksparth12&repo=thinkforge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&icon_color=6366F1" alt="ThinkForge" />
+  </a>
+  <a href="https://github.com/ksparth12/snapurl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksparth12&repo=snapurl&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&icon_color=6366F1" alt="SnapURL" />
+  </a>
+</div>
+
+---
+
+## 📫 **Let's Connect & Collaborate!**
+
+<div align="center">
+  <a href="https://parthsharma-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ksparth12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ksparth128" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ks_parth" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/ksparth12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 💡 **Fun Fact**
+
+<div align="center">
+  <p style="font-family: 'Outfit', sans-serif; font-size: 18px; color: #64748b;">
+    <em>"I believe in waking up each day eager to make a difference!"</em> 🌟
+  </p>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParshSharma&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+</div>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 ThinkForge
-**AI-Driven Project Idea Generator**
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ksparth12&repo=ThinkForge&theme=tokyonight&border_color=00D9FF&border_radius=15" />
-
-🔹 Built with TypeScript & Modern Web Technologies  
-🔹 Helps students discover industry-ready projects  
-🔹 Perfect for hackathons & skill development  
-
-</td>
-<td width="50%">
-
-### 💻 HTML-to-MERN-Advance
-**Full-Stack Development Journey**
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ksparth12&repo=HTML-to-MERN-Advance&theme=tokyonight&border_color=00D9FF&border_radius=15" />
-
-🔹 Complete MERN Stack Implementation  
-🔹 Advanced Web Development Concepts  
-🔹 Real-world Application Patterns  
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksparth12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&border_radius=15"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksparth12&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&border_radius=15"/>
-
-</div>
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksparth12&theme=tokyonight&border=00D9FF&border_radius=15" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Status
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Crafting+dynamic+web+applications;%F0%9F%A7%A0+Exploring+AI+integration+possibilities;%F0%9F%9A%80+Available+for+exciting+opportunities;%E2%9C%A8+Delivering+seamless+user+experiences" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 Currently Vibing To
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlkjvhs5rb6jfc6n7lhqru2i&unique=true&width=600" />
-
-*Life's about balance, and I love embracing every part of it! 🎶*
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-<a href="https://parthsharma-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/parth-sharma" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/parthsharma" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:parth@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-### 💫 *"I believe in waking up each day eager to make a difference!"*
-
-<img src="https://komarev.com/ghpvc/?username=ksparth12&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ksparth12&theme=tokyo-night&border_color=00D9FF&border_radius=15&custom_title=Parth%27s%20Contribution%20Graph&area=true&hide_border=false" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ksparth12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&border_color=00D9FF" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=00D9FF" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-
-### ⭐ Don't forget to star repositories you find interesting!
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
+  <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
+  <p>Made by Parth Sharma</p>
 </div>
