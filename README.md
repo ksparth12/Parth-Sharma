@@ -144,22 +144,6 @@
 
 ---
 
-## 🎯 **What I'm Currently Working On**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+scalable+web+applications;Learning+new+technologies;Contributing+to+open+source;Crafting+seamless+user+experiences" alt="Current Work" />
-</div>
-
----
-
-## 🌟 **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksparth12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E2E8F0&area=true&area_color=6366F1" alt="Activity Graph" />
-</div>
-
----
-
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
@@ -199,16 +183,6 @@
   <a href="https://instagram.com/ksparth12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
----
-
-## 💡 **Fun Fact**
-
-<div align="center">
-  <p style="font-family: 'Outfit', sans-serif; font-size: 18px; color: #64748b;">
-    <em>"I believe in waking up each day eager to make a difference!"</em> 🌟
-  </p>
 </div>
 
 ---
