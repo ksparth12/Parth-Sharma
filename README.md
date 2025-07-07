@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
   <div style="flex: 1;">
-    <img src="https://parthsharma-portfolio.vercel.app/images/links.jpg" alt="Parth Sharma" width="250" style="border-radius: 50%; border: 4px solid #6366F1;">
+    <img src="https://github.com/ksparth12/ksparth12/blob/main/GithubStreak.png" alt="Parth Sharma" width="1200" style="border-radius: 50%; border: 4px solid #6366F1;">
   </div>
   <div style="flex: 2; text-align: left;">
     <h3>🚀 FROM CONCEPT TO CREATION - LET'S MAKE IT HAPPEN!</h3>
