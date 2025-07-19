@@ -16,127 +16,9 @@
   </div>
 </div>
 
----
-
-## 🛠️ **The Secret Sauce** - My Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React"/>
-        <br><strong>ReactJS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="60" height="60" alt="Next.js"/>
-        <br><strong>NextJS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/typescript" width="60" height="60" alt="TypeScript"/>
-        <br><strong>TypeScript</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/tailwindcss" width="60" height="60" alt="Tailwind CSS"/>
-        <br><strong>Tailwind CSS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/framer" width="60" height="60" alt="Motion"/>
-        <br><strong>Motion</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/sanity" width="60" height="60" alt="Sanity"/>
-        <br><strong>Sanity</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/contentful" width="60" height="60" alt="Contentful"/>
-        <br><strong>Contentful</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/nodedotjs/darkgreen" width="60" height="60" alt="Node.js"/>
-        <br><strong>NodeJS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/express/white" width="60" height="60" alt="Express.js"/>
-        <br><strong>ExpressJS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/postgresql/sky" width="60" height="60" alt="PostgreSQL"/>
-        <br><strong>PostgreSQL</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/mongodb/darkgreen" width="60" height="60" alt="MongoDB"/>
-        <br><strong>MongoDB</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/prisma/blue" width="60" height="60" alt="Prisma"/>
-        <br><strong>Prisma</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/redux/pink" width="60" height="60" alt="Zustand"/>
-        <br><strong>Zustand</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/zod" width="60" height="60" alt="Zod"/>
-        <br><strong>Zod</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/pnpm" width="60" height="60" alt="pnpm"/>
-        <br><strong>pnpm</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/bun/white" width="60" height="60" alt="Bun"/>
-        <br><strong>Bun</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/git" width="60" height="60" alt="Git"/>
-        <br><strong>Git</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/github/white" width="60" height="60" alt="GitHub"/>
-        <br><strong>GitHub</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/vercel/white" width="60" height="60" alt="Vercel"/>
-        <br><strong>Vercel</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/amazonwebservices/gray" width="60" height="60" alt="AWS"/>
-        <br><strong>AWS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/docker" width="60" height="60" alt="Docker"/>
-        <br><strong>Docker</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/expo/gray" width="60" height="60" alt="Expo"/>
-        <br><strong>Expo</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/clerk" width="60" height="60" alt="Clerk"/>
-        <br><strong>Clerk</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/linux" width="60" height="60" alt="Linux"/>
-        <br><strong>Linux</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksparth12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&icon_color=6366F1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksparth12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksparth12&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=64748B" alt="GitHub Streak" />
@@ -144,13 +26,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksparth12&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🔥 **Featured Projects**
 
